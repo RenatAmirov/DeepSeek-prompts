@@ -1,0 +1,2 @@
+# DeepSeek-prompts
+DeepSeek prompts
